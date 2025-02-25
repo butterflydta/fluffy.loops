@@ -1,0 +1,6 @@
+@media (min-width:1200px) {
+  .justify-content-xl-center {
+    justify-content: center!important;
+  }
+}
+
